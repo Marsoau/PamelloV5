@@ -1,6 +1,6 @@
 # PamelloV5
 
-> *Added to github just for preservation purposes, not intended to be used by anyone, unlike a newer [PamelloV7](https://github.com/Marsoau/PamelloV7)*
+> *Added to github just for preservation purposes, not intended for public usage, unlike a newer [PamelloV7](https://github.com/Marsoau/PamelloV7)*
 
 ## PamelloNET
 **A 5th iteration of Pamello discord bot**

@@ -11,4 +11,6 @@ First iteration written in C# instead on Python, first actuall project on C# too
 
 ---
 
+**Previous iterations:** [PamelloV1-4](https://github.com/Marsoau/PamelloV1-4)
+
 **Next iteration:** [PamelloV6](https://github.com/Marsoau/PamelloV6)
